@@ -1,2 +1,13 @@
-# repositorio-accesible
-Repositorio accesible del CREBE Ucayali para organizar textos en braille, equipos tecnológicos y materiales elaborados que apoyan la inclusión educativa..
+# Repositorio accesible
+
+Repositorio accesible de materiales, equipos y producciones del CREBE "Señor de los Milagros" - Ucayali para fortalecer la inclusión educativa.
+
+## Contenido inicial
+
+- Materiales disponibles.
+- Equipos tecnológicos.
+- Materiales elaborados.
+
+## Uso institucional
+
+Desarrollo original: Psicólogo Gabriel Berrospi. Uso institucional autorizado al CREBE "Señor de los Milagros" - Ucayali.
